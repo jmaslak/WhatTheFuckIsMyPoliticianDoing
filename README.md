@@ -3,7 +3,7 @@ Code for WhatTheFuckIsMyPoliticianDoing.com
 
 ## Author
 
-[Joelle Maslak](mailto:jmaslak@antelope.net)
+Joelle Maslak ([Email](mailto:jmaslak@antelope.net))
 
 ## Copyright
 
